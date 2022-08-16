@@ -1,16 +1,16 @@
-### Hi there 👋
+## About Me:
 
-<!--
-**econdavidzh/econdavidzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Economist and Junior Data Scientist with great attitude to learn. Skilled in statistics, data analysis, modeling, and visualizations. Passionate about solving problems with data. Competent in supervised, semi-supervised and unsupervised Machine Learning modeling, time series forecasting and A/B Testing (impact evaluation).
 
-Here are some ideas to get you started:
+Interests: 
+ - Predictive Analytics with Machine Learning, Deep Learning and Econometrics. 
+ - Develop applications using Artificial Intelligence.
+ - Experimental evaluation.
+ - Storytelling with data.
+ - Learn more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python, Visualizations, Modeling, Excel, SQL.
+
+[LinkedIn](https://www.linkedin.com/in/david-enrique-zambrano-a753a764/)
+
+[Kaggle](https://www.kaggle.com/davidzambrano87)
