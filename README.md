@@ -1,6 +1,6 @@
 ## About Me:
 
-I am an Economist and Junior Data Scientist with great attitude to learn. Skilled in statistics, data analysis, modeling, and visualizations. Passionate about solving problems with data. Competent in supervised, semi-supervised and unsupervised Machine Learning modeling, time series forecasting and A/B Testing (impact evaluation).
+I am an Economist and Junior Data Scientist with great attitude to learn. Skilled in statistics, data analysis, modeling, and visualizations. Passionate about solving problems with data. Competent in supervised, semi-supervised and unsupervised Machine Learning modeling, time series forecasting, A/B Testing and impact evaluation.
 
 Interests: 
  - Predictive Analytics with Machine Learning, Deep Learning and Econometrics. 
